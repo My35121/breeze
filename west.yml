@@ -15,7 +15,7 @@ manifest:
       path: breeze-app/breeze-app-template
     - name: zephyr
       remote: upstream
-      revision: main
+      revision: v3.7-branch
       path: zephyr
       import:
         path-prefix: breeze-sdk
